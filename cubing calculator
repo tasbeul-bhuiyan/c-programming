@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-double cube(double num){
-double result = num*num*num;
-return result;
+double cube(double num)
+{
+return num*num*num;;
 }
 
 
@@ -16,3 +16,4 @@ int main()
 
     return 0;
 }
+
